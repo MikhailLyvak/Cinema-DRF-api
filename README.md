@@ -45,4 +45,4 @@ get access token via /api/user/token/
 - Adding movie sessions
 - Filtering movies and movie sessions
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](![image](https://user-images.githubusercontent.com/118639650/232036406-4d008c4a-1322-442b-b334-ce66110bd382.png))
