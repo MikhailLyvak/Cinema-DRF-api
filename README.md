@@ -21,3 +21,26 @@ export DB_SECRET_KEY=<your secret key>
 python manage.py migrate
 python manage.py runserver
 ```
+
+# 📈 Run with DOCKER
+```python
+# DOCKER should be already installed
+docker-compose build
+docker-compose up
+```
+
+# 🤟 To get access to work with api do next steps
+```python
+create user via /api/user/register/
+get access token via /api/user/token/
+```
+
+# 📜 Some project Features
+- JWT authenticated
+- Admin panel /admin/
+Documentation is located at /api/doc/swagger/
+Managing orders and tickets
+Creating movies with genres, actors
+Creating cinema halls
+Adding movie sessions
+Filtering movies and movie sessions
