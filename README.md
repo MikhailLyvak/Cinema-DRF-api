@@ -44,3 +44,5 @@ get access token via /api/user/token/
 - Creating cinema halls
 - Adding movie sessions
 - Filtering movies and movie sessions
+
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
