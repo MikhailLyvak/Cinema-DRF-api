@@ -44,5 +44,3 @@ get access token via /api/user/token/
 - Creating cinema halls
 - Adding movie sessions
 - Filtering movies and movie sessions
-
-![](https://user-images.githubusercontent.com/118639650/232036605-f5dfbaba-ff06-40ad-a1dc-55744c691fa3.png)
