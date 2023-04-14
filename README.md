@@ -38,9 +38,9 @@ get access token via /api/user/token/
 # 📜 Some project Features
 - JWT authenticated
 - Admin panel /admin/
-Documentation is located at /api/doc/swagger/
-Managing orders and tickets
-Creating movies with genres, actors
-Creating cinema halls
-Adding movie sessions
-Filtering movies and movie sessions
+- Documentation is located at /api/doc/swagger/
+- Managing orders and tickets
+- Creating movies with genres, actors
+- Creating cinema halls
+- Adding movie sessions
+- Filtering movies and movie sessions
