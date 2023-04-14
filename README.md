@@ -45,4 +45,4 @@ get access token via /api/user/token/
 - Adding movie sessions
 - Filtering movies and movie sessions
 
-![](![image](https://user-images.githubusercontent.com/118639650/232036406-4d008c4a-1322-442b-b334-ce66110bd382.png))
+![](https://user-images.githubusercontent.com/118639650/232036532-b2e6f326-0c45-4ccf-a66d-ad1ade276c75.png)
