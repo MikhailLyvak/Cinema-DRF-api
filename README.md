@@ -7,7 +7,8 @@ Cinema service made with DFR for management.
 git clone https://github.com/MikhailLyvak/Cinema-DRF-api.git
 cd cinema-api
 python -m venv venv
-source venv/bin/activate
+venv\Scripts\activate (on Windows)
+source venv/bin/activate (on macOS)
 pip install -r requirements.txt
 ```
 
@@ -44,3 +45,7 @@ get access token via /api/user/token/
 - Creating cinema halls
 - Adding movie sessions
 - Filtering movies and movie sessions
+
+![image](https://user-images.githubusercontent.com/118639650/235923639-3c57e987-b40e-4330-a9a8-3cb5262ecf68.png)
+![image](https://user-images.githubusercontent.com/118639650/235923727-eb92c7b4-61b5-4d92-b9c9-8a778339d704.png)
+
